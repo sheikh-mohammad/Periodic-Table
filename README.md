@@ -31,13 +31,14 @@ Access the live version hosted on GitHub Pages:
 2. Navigate into the folder:
   ```bash
   cd Periodic-Table
+```
 
-3. Open ```index.html``` in your browser.
+3. Open `index.html` in your browser.
 Alternatively, view it online via GitHub Pages.
 
 ## Customization
 
-- Customize colors, fonts, and layouts in ```style.css```
+- Customize colors, fonts, and layouts in `style.css`
 - Add hover or click interactions using JavaScript for dynamic element info
 - Extend with tooltips or modals that display atomic number, mass, symbol, etc.
 
@@ -45,7 +46,7 @@ Alternatively, view it online via GitHub Pages.
 
 Contributions are welcome! Here’s how you can help:
 1. Fork the repo
-2. Create a branch (```git checkout -b feature-name```)
+2. Create a branch (`git checkout -b feature-name`)
 3. Make your enhancements
 4. Submit a Pull Request with a clear description of changes
 
