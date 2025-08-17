@@ -30,7 +30,7 @@ Access the live version hosted on GitHub Pages:
    
 2. Navigate into the folder:
   ```bash
-      cd Periodic-Table
+      cd Periodic-Table```
 
 3. Open ```index.html``` in your browser.
 Alternatively, view it online via GitHub Pages.
