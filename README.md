@@ -19,18 +19,18 @@ Access the live version hosted on GitHub Pages:
 - Easy to extend with JavaScript for dynamic behavior
 
 ## File Structure
-├── index.html # Main structure and markup for the periodic table
+├── index.html # Main structure and markup for the periodic table <br />
 └── style.css # Styling for layout, element appearance, and responsive behavior
 
 ## How to View
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sheikh-mohammad/Periodic-Table.git```
+   git clone https://github.com/sheikh-mohammad/Periodic-Table.git
    
 2. Navigate into the folder:
   ```bash
-      cd Periodic-Table```
+      cd Periodic-Table
 
 3. Open ```index.html``` in your browser.
 Alternatively, view it online via GitHub Pages.
